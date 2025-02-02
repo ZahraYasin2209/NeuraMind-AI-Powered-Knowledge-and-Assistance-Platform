@@ -29,7 +29,7 @@ Welcome to **NeuraMind - The Future of AI Conversations!** 🚀
 2. Your conversations remain private and protected.
 
 # Technologies Used
-1. **React** - For building a dynamic and interactive user experience.
+1. **React JS** - For building a dynamic and interactive user experience.
 2. **Tailwind CSS** - For a sleek and fully responsive UI.
 3. **Clerk.js** - For authentication and user session management.
 4. **GeminiAPI** - AI-driven chatbot functionality for fast and intelligent responses.
