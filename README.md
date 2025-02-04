@@ -72,5 +72,7 @@ We welcome contributions! If you’d like to improve NeuraMind, feel free to for
 
 For any issues, feedback, or suggestions, please contact us at: 📧 **zahrayasin2209@gmail.com**
 
+**Live perview: https://neura-mind-ai-powered-knowledge-and-assistance-platform.vercel.app/**
+
 **🚀 NeuraMind - AI that Thinks, Learns & Assists! 🌍**
 
